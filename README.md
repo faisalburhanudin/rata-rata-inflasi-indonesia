@@ -4,7 +4,7 @@ Dari tahun 2003 sampai 2022 rata-rata inflasi adalah **5.8%**
 
 ## Download Dataset
 
-Download xlxs from 
+Download xlxs from [bi.go.id](https://www.bi.go.id/id/statistik/indikator/data-inflasi.aspx)
 
 ## Prepare jupyter environment
 
