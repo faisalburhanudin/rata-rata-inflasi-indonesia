@@ -2,7 +2,7 @@
 
 ## Hasil
 
-[notebook] (https://github.com/faisalburhanudin/rata-rata-inflasi-indonesia/blob/main/inflation.ipynb)
+[notebook](https://github.com/faisalburhanudin/rata-rata-inflasi-indonesia/blob/main/inflation.ipynb)
 
 Dari tahun 2003 sampai 2022 rata-rata inflasi adalah **5.8%**
 
